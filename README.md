@@ -1,1 +1,2 @@
 # odin.recipies
+Hello, my name is Matt. I have been using TOP for 1 week. This is my first project where I will demonstrate what I have learned so far. My skills will be adding links and images and using images as links. I hope you enjoy my project. Thank you!
